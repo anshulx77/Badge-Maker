@@ -59,11 +59,3 @@ A Python script that automates the creation of markdown badges and table entries
 
 ### *ScreenShot : Generated File*
 ![Generated File Screenshot](ScreenShots/ScreenShot02.png)
-
----
-
-Made with ❤️ 
-
-[Anshul-Padiyar](https://github.com/Anshul-Padiyar) - contact.anshulpadiyar@gmail.com
-
----
